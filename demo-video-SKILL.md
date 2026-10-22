@@ -21,7 +21,7 @@ Apply these when given, without re-asking. Report the values used on delivery.
 | Chapters | On | Can be turned off |
 | Runtime | 5-7 minutes executive, 8-12 minutes detailed | Fit by changing scope, never by retiming speech |
 | Audience framing | Executive | Can be technical, training, or product overview |
-| Approval gates | On | Append `-automode` to the request to build the video end to end without stopping |
+| Approval gates | On | Append `-automode` to the request to build end to end without stopping |
 | Motion | On | Camera moves, overlays, and chapter transitions. Can be reduced to plain capture |
 | Frame rate | 60 fps | Lower only when capture cannot sustain it; say so on delivery |
 
@@ -258,3 +258,4 @@ Confirm the deliverable plays correctly where it will actually be viewed, since 
 Deliver a clickable link with the actual duration, the voice and measured pace, and a note that narration is synthetic. Do not share externally without confirmation. Stop only the processes you started and remove temporary copies. Keep the source media, narration segments, cue manifest, and build scripts so settings can be changed later without re-recording.
 
 State honestly which checks you could not perform. Reviewing frames and timings is not the same as listening to the audio.
+
